@@ -134,11 +134,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="valign" val="base"/>
     </tool>
   </lib>
-  <lib desc="file#alu.circ" name="7"/>
-  <lib desc="file#mem.circ" name="8"/>
-  <lib desc="file#regfile.circ" name="9"/>
-  <lib desc="file#control.circ" name="10"/>
-  <lib desc="file#alu-control.circ" name="11"/>
+  <lib desc="file#C:\Users\Liam\Desktop\CompOrg Project 2-2\proj2-2\alu.circ" name="7"/>
+  <lib desc="file#C:\Users\Liam\Desktop\CompOrg Project 2-2\proj2-2\mem.circ" name="8"/>
+  <lib desc="file#C:\Users\Liam\Desktop\CompOrg Project 2-2\proj2-2\regfile.circ" name="9"/>
+  <lib desc="file#C:\Users\Liam\Desktop\CompOrg Project 2-2\proj2-2\control.circ" name="10"/>
+  <lib desc="file#C:\Users\Liam\Desktop\CompOrg Project 2-2\proj2-2\alu-control.circ" name="11"/>
   <main name="main"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
